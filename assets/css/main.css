@@ -2089,7 +2089,7 @@ input, select, textarea {
 			top: -10%;
 			z-index: 1;
 			box-shadow: inset 0px 0px 0px 1px #ffffff;
-			background: rgba(29, 120, 212, 0.2) url("images/image-wrapper.svg");
+			background: rgba(0, 88, 139, 0.3) url("images/image-wrapper.svg");
 		}
 
 	#header-wrapper {

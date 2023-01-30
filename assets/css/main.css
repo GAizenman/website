@@ -2420,7 +2420,7 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 2em 0 4em 0;
+				padding: 2em 0 2em 0;
 			}
 
 			.homepage #header-wrapper {
@@ -2679,7 +2679,7 @@ input, select, textarea {
 		/* Sections/Article */
 
 			header {
-				margin-bottom: 1em;
+				margin-bottom: 2em;
 			}
 
 				header > p {
@@ -2700,7 +2700,7 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 3em 20px 20px 20px;
+				padding: 3em 20px 3em 20px;
 				text-align: center;
 			}
 

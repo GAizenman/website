@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 400 400" preserveAspectRatio="none">
-	<polygon points="0,0 300,0 0,250" style="fill:rgba(40,150,200,0.35);" />
-	<polygon points="0,250 300,0 400,0 400,150 100,400 0,400" style="fill:rgba(40,150,200,0.45);" />
-	<polygon points="100,400 400,150 400,400" style="fill:rgba(40,150,200,0.25);" />
+	<polygon points="0,0 300,0 0,250" style="fill:rgba(400,400,400,0.35);" />
+	<polygon points="100,400 400,150 400,400" style="fill:rgba(40,150,200,0.015);" />
 	
 	<line x1="300" y1="0" x2="0" y2="250" style="stroke:rgba(0,0,0,0.075);stroke-width:0.15" />
 	<line x1="100" y1="400" x2="400" y2="150" style="stroke:rgba(0,0,0,0.1);stroke-width:0.15" />

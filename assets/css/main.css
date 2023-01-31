@@ -2130,6 +2130,15 @@ input, select, textarea {
 		background-size: 128px 128px,				100% 100%;
 	}
 
+	#footer-wrapper1 {
+		-webkit-transform: translate3d(0, 0, 0);
+		position: relative;
+		border-top: solid 1px #c2c7cc;
+		padding: 6em 0 6em 0;
+		background-image: url("images/overlay.png"), url("images/footer1.svg");
+		background-size: 128px 128px,				100% 100%;
+	}
+
 /* Header */
 
 	#logo {
